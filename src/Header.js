@@ -13,7 +13,7 @@ const Header = () => {
           </div>
         </div>
       </div>
-      <div className="relative -mt-14 w-2/3 z-10 rounded-md bg-white mx-auto px-10 py-6 shadow-lg mb-24">
+      <div className="relative -mt-3 w-2/3 z-10 rounded-md bg-white mx-auto px-10 py-6 shadow-lg mb-24">
           <div className="flex justify-between flex-wrap">
             <div className="mx-1 my-4">
               <h1 className="text-lg font-semibold mb-5 tracking-wide ">Check In </h1>
